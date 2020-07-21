@@ -1,16 +1,24 @@
-### Hi there 👋
+### So pleasant of you to drop by! Hello 👋
 
-<!--
-**CodingWitcher/CodingWitcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/CodingWitcher/CodingWitcher/blob/master/Aditya%20Baurai.jpg)
 
-Here are some ideas to get you started:
+# About Me : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In a nutshell, I am an undergraduate passionate about **Artificial General Intelligence(in this Big Data era)** and how modern day machines leverage these tools in order to accomplish gruesome tasks such as Vision and decoding patterns.
+
+For the past year and a half, I have been deeply involved in the projects revolving around data science and Machine Learning. Working at the intersection of these fields in domains such as *Analytics* and *Computer Vision* is my primary area of interest around which I aim to weave my professional career. 
+
+Apart from the professional sphere, I cherish traveling, playing lawn tennis, star-gazing, reading novels, PC gaming and orating. 
+
+# Contact Information and Profiles : 
+
+- 👯 Always ready to collaborate on intruguing endeavors. Please contact me via email mentioned down below...
+- 📫 *Email*: **bauraiaditya7@gmail.com** 
+- 📫 *LinkedIn*: **https://www.linkedin.com/in/adityabaurai/** 
+- 📫 *Kaggle*: **https://www.kaggle.com/fireheart7** 
+- 📫 *LeetCode*: **https://leetcode.com/fireheart7/** 
+
+- ⚡ Fun fact: A.I. is not equal to Skynet !!! 
+
+
+
