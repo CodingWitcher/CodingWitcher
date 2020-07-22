@@ -12,11 +12,10 @@ Apart from the professional sphere, I cherish traveling, playing lawn tennis, st
 
 # Contact Information and Profiles : 
 
-- 👯 Always ready to collaborate on intruguing endeavors. Please contact me via email mentioned down below...
+- 👯 Always ready to collaborate on intriguing endeavors. Please contact me via email mentioned down below...
 - 📫 *Email*: **bauraiaditya7@gmail.com** 
 - 📫 *LinkedIn*: **https://www.linkedin.com/in/adityabaurai/** 
 - 📫 *Kaggle*: **https://www.kaggle.com/fireheart7** 
-- 📫 *LeetCode*: **https://leetcode.com/fireheart7/** 
 
 - ⚡ Fun fact: A.I. is not equal to Skynet !!! 
 
