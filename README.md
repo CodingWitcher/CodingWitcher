@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## So pleasant of you to drop by! 
 
-![](https://github.com/CodingWitcher/CodingWitcher/blob/master/Aditya%20Baurai.jpg)
+![](https://github.com/CodingWitcher/CodingWitcher/blob/master/me.jpg)
 
 # About Me : 
 
